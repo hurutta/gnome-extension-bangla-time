@@ -2,8 +2,6 @@
   "name": "Bangla Time",
   "description": "Time in bangla language for the gnome-shell panel",
   "uuid": "BanglaTime@hurutta.github.io",
-  "shell-version": [
-    "43"
-  ],
+  "shell-version": ["42", "43", "44"],
   "url": "https://github.com/hurutta/gnome-extension-bangla-time"
 }
